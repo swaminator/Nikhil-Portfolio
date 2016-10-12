@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="518px" height="386px" viewBox="0 0 518 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>browser-header copy + Group Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD-Copy" sketch:type="MSArtboardGroup" transform="translate(-797.000000, -705.000000)">
+            <g id="browser-header-copy-+-Group-Copy-4" sketch:type="MSLayerGroup" transform="translate(797.000000, 704.000000)">
+                <g id="browser-header-copy" transform="translate(0.687500, 1.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-29" fill="#D8D8D8" x="0" y="0" width="516.910903" height="26.5375" rx="1"></rect>
+                    <ellipse id="Oval-7" fill="#7F45FF" cx="15.5073271" cy="12.0625" rx="5.16910903" ry="4.825"></ellipse>
+                    <ellipse id="Oval-7-Copy" fill="#7F45FF" cx="31.0146542" cy="12.0625" rx="5.16910903" ry="4.825"></ellipse>
+                    <ellipse id="Oval-7-Copy-2" fill="#7F45FF" cx="46.5219813" cy="12.0625" rx="5.16910903" ry="4.825"></ellipse>
+                </g>
+                <g id="Group-Copy-4" transform="translate(0.687500, 25.125000)">
+                    <rect id="Rectangle-21" fill="#45FFDD" sketch:type="MSShapeGroup" x="0" y="0" width="516.910903" height="361.875"></rect>
+                    <g id="Group-Copy-2" transform="translate(219.687134, 164.075000)">
+                        <rect id="Rectangle-16" fill="#4A4A4A" sketch:type="MSShapeGroup" x="0" y="0" width="273.962779" height="152.069744"></rect>
+                        <path d="M89.6985771,166.198504 C87.8814346,170.114354 89.9195119,173.288778 94.249927,173.288778 L176.410622,173.288778 C180.741405,173.288778 185.719185,170.127497 187.542427,166.198504 L189.167513,162.696525 C190.984655,158.780674 188.946578,155.60625 184.616163,155.60625 L102.455468,155.60625 C98.1246844,155.60625 93.1469043,158.767532 91.3236631,162.696525 L89.6985771,166.198504 Z" id="Rectangle-17" fill="#4A4A4A" sketch:type="MSShapeGroup"></path>
+                        <rect id="Rectangle-18" fill="#4A4A4A" sketch:type="MSShapeGroup" x="125.240127" y="152.069744" width="23.4825239" height="8.8412642"></rect>
+                        <rect id="Rectangle-19" fill="#5B5B5B" sketch:type="MSShapeGroup" x="5.87063097" y="5.30475852" width="262.221517" height="141.460227"></rect>
+                        <g id="VID----TV-+-AA-+-AA-Copy" transform="translate(67.230490, 59.071982)">
+                            <text id="VID-------TV" sketch:type="MSTextLayer" font-family="Josefin Sans" font-size="28.8595622" font-weight="normal">
+                                <tspan x="0" y="28" fill="#2F7BCF">VID   </tspan>
+                                <tspan x="68.4837411" y="28" fill="#E32CE9">    </tspan>
+                                <tspan x="96.044623" y="28" fill="#727272">TV</tspan>
+                            </text>
+                            <path d="M79.5388737,20.1559553 C78.9356352,21.5656763 78.3532067,22.9001921 77.7915709,24.1595428 C77.2299351,25.4188935 76.7411112,26.4808674 76.3250846,27.3454962 L74.2033598,27.3454962 C74.5153798,26.6688302 74.9314001,25.7713213 75.4514333,24.6529427 C75.9714664,23.5345641 76.5330939,22.3081252 77.1363324,20.9735894 C77.7395709,19.6390536 78.3636013,18.2528488 79.0084425,16.8149334 C79.6532836,15.377018 80.2773141,13.9908132 80.8805526,12.6562774 C81.4837911,11.3217416 82.0402182,10.1000018 82.5498508,8.99102128 C83.0594833,7.8820408 83.4807039,6.97983293 83.8135251,6.2843706 C84.125545,6.97983293 84.5415653,7.8820408 85.0615985,8.99102128 C85.5816317,10.1000018 86.1432591,11.3217416 86.7464976,12.6562774 C87.3497361,13.9908132 87.9789668,15.377018 88.6342086,16.8149334 C89.2894505,18.2528488 89.9186812,19.6390536 90.5219197,20.9735894 C91.1251582,22.3081252 91.6815853,23.5345641 92.1912178,24.6529427 C92.7008504,25.7713213 93.1220709,26.6688302 93.4548922,27.3454962 L91.3019655,27.3454962 L83.8135254,10.4114535" id="AA" fill="#E32CE9" sketch:type="MSShapeGroup"></path>
+                            <path d="M56.0563498,20.1559553 C55.4531113,21.5656763 54.8706829,22.9001921 54.309047,24.1595428 C53.7474112,25.4188935 53.2585873,26.4808674 52.8425608,27.3454962 L50.720836,27.3454962 C51.0328559,26.6688302 51.4488762,25.7713213 51.9689094,24.6529427 C52.4889426,23.5345641 53.05057,22.3081252 53.6538085,20.9735894 C54.257047,19.6390536 54.8810774,18.2528488 55.5259186,16.8149334 C56.1707597,15.377018 56.7947902,13.9908132 57.3980287,12.6562774 C58.0012672,11.3217416 58.5576944,10.1000018 59.0673269,8.99102128 C59.5769594,7.8820408 59.99818,6.97983293 60.3310012,6.2843706 C60.6430211,6.97983293 61.0590414,7.8820408 61.5790746,8.99102128 C62.0991078,10.1000018 62.6607352,11.3217416 63.2639737,12.6562774 C63.8672122,13.9908132 64.4964429,15.377018 65.1516848,16.8149334 C65.8069266,18.2528488 66.4361573,19.6390536 67.0393958,20.9735894 C67.6426343,22.3081252 68.1990614,23.5345641 68.708694,24.6529427 C69.2183265,25.7713213 69.6395471,26.6688302 69.9723683,27.3454962 L67.8194417,27.3454962 L60.3310015,10.4114535" id="AA-Copy" fill="#E32CE9" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" transform="translate(18.091882, 160.937500)">
+                        <rect id="Rectangle-12" fill="#4A4A4A" sketch:type="MSShapeGroup" x="0" y="0.871755914" width="183.150522" height="170.415744" rx="3"></rect>
+                        <rect id="Rectangle-13" fill="#5B5B5B" sketch:type="MSShapeGroup" x="10.0888" y="12.9426105" width="80.7103996" height="145.066789"></rect>
+                        <rect id="Rectangle-13-Copy" fill="#5B5B5B" sketch:type="MSShapeGroup" x="91.5752611" y="12.9426105" width="80.7103996" height="145.066789"></rect>
+                        <text id="imerj" sketch:type="MSTextLayer" font-family="DIN Condensed" font-size="18.4120839" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="34.140162" y="93.2019433">imerj</tspan>
+                        </text>
+                        <ellipse id="Oval-3" stroke="#F0F8FF" sketch:type="MSShapeGroup" cx="46.2314693" cy="163.984545" rx="3.55626687" ry="3.31952519"></ellipse>
+                        <g id="Line-+-Line-Copy-+-Line-Copy-2" transform="translate(64.012804, 159.337209)" stroke="#F0F8FF" stroke-linecap="square" sketch:type="MSShapeGroup">
+                            <path d="M0.711253374,1.99171512 L6.40128037,1.99171512" id="Line"></path>
+                            <path d="M0.711253374,4.64733527 L6.40128037,4.64733527" id="Line-Copy"></path>
+                            <path d="M0.711253374,7.30295543 L6.40128037,7.30295543" id="Line-Copy-2"></path>
+                        </g>
+                        <rect id="Rectangle-15" fill="#8B8A8A" sketch:type="MSShapeGroup" x="35.5626687" y="6.63905039" width="21.3376012" height="2.65562016" rx="4"></rect>
+                        <g id="Path-55-+-Triangle-1" transform="translate(18.492588, 160.665019)" sketch:type="MSShapeGroup">
+                            <path d="M9.77959498,5.62547141 C9.77959498,5.62547141 9.35853854,-2.41832597 2.70331849,3.4340661" id="Path-55" stroke="#F0F8FF"></path>
+                            <path d="M1.9895861,1.1065084 L3.9830189,4.05599187 L0.995754724,4.42603359 L1.9895861,1.1065084 L1.9895861,1.1065084 Z" id="Triangle-1" fill="#ECF5FB"></path>
+                        </g>
+                    </g>
+                    <g id="Rectangle-19-+-Accountable-Tutors-+-ntr-+-m-Copy" transform="translate(346.330305, 30.485227)">
+                        <g id="Accountable-Tutors-+-ntr-+-m" transform="translate(0.262647, 0.391795)">
+                            <text id="Accountable-Tutors" sketch:type="MSTextLayer" font-family="Josefin Sans" font-size="16.008168" font-weight="bold" fill="#273646">
+                                <tspan x="7.31172525" y="80.5075665">Accountable Tutors</tspan>
+                            </text>
+                            <text id="ntr" sketch:type="MSTextLayer" font-family="Open Sans" font-size="24.012252" font-weight="526" fill="#F6A623">
+                                <tspan x="73.1172525" y="26">ntr</tspan>
+                            </text>
+                            <path d="M39.0117957,60.0869907 L29.2357298,60.0869907 L29.2357298,33.443907 C29.2357298,30.1362935 28.5729523,27.6686426 27.2473774,26.04088 C25.9218025,24.4131175 23.8506229,23.5992485 21.0337762,23.5992485 C17.2779807,23.5992485 14.5233117,24.751687 12.7696866,27.0565988 C11.0160615,29.3615105 10.1392621,33.1964615 10.1392621,38.5615667 L9.89071805,64.1762352 L0.404620212,81.0225164 L0.404620212,16.8798784 L8.02663769,16.8798784 L9.39362996,22.5444636 L9.89071805,22.5444636 C11.1610607,20.4869718 13.0044106,18.8982994 15.4208231,17.7783988 C17.8372357,16.6584982 20.4952496,16.0985563 23.3949447,16.0985563 C30.4370613,16.0985563 35.1041195,18.3643677 37.3962594,22.8960586 L38.0590435,22.8960586 C39.4122346,20.7604342 41.3177199,19.0936303 43.7755566,17.8955971 C46.2333934,16.6975639 49.0501978,16.0985563 52.2260543,16.0985563 C57.6940507,16.0985563 61.6776196,17.4007468 64.1768806,20.0051668 C66.6761416,22.6095868 67.9257533,26.5812678 67.9257533,31.9203289 L67.9257533,60.0869907 L58.1911114,60.0869907 L58.1911114,33.443907 C58.1911114,30.1362935 57.52143,27.6686426 56.182047,26.04088 C54.8426641,24.4131175 52.7645805,23.5992485 49.9477338,23.5992485 C46.1643222,23.5992485 43.3958453,24.7126213 41.6422202,26.9394005 C39.8885951,29.1661796 39.0117957,32.5844296 39.0117957,37.1942531 L39.0117957,60.0869907 Z" id="m" fill="#273646" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                    <g id="logo" transform="translate(18.091882, 45.250000)">
+                        <g id="A-Pie" transform="translate(0.000000, 3.289773)" stroke="#F6A623" sketch:type="MSShapeGroup">
+                            <g id="Pie" transform="translate(19.942428, 21.078385) rotate(-1.000000) translate(-19.942428, -21.078385) translate(0.392008, 1.339749)">
+                                <path d="M19.0073529,6.52661326 L19.0073529,25.1093835" id="Path-1" stroke-width="7"></path>
+                                <path d="M19.0363551,24.6732955 L38.3171319,24.6732955" id="Line" stroke-width="7" stroke-linecap="square"></path>
+                                <ellipse id="Oval-1" stroke-width="7" cx="19.1660653" cy="21.7036087" rx="18.7537797" ry="17.1157095"></ellipse>
+                                <g id="Lines" transform="translate(24.992528, 14.356964) rotate(47.000000) translate(-24.992528, -14.356964) translate(17.932654, 1.746168)" stroke-linecap="square">
+                                    <path d="M0.543067227,6.97187308 L0.543067227,13.3313914" id="Line"></path>
+                                    <path d="M13.5766807,6.93519656 L13.5766807,16.3921967" id="Line"></path>
+                                    <path d="M0.543067227,4.97911548 L0.543067227,16.3123595" id="Line"></path>
+                                    <path d="M8.0554972,0.89505108 L8.0554972,23.68534" id="Line"></path>
+                                    <path d="M4.88760504,7.7771362 L4.88760504,23.3377607" id="Line-Copy-4"></path>
+                                    <path d="M2.71533613,4.42540957 L2.71533613,19.9399686" id="Line-Copy-3"></path>
+                                    <path d="M12.4905462,5.95715602 L12.4905462,16.9112101" id="Line"></path>
+                                </g>
+                            </g>
+                            <path d="M41.2731125,6.88184889 L41.273106,40.1352273" id="Line" stroke-width="8" stroke-linecap="square"></path>
+                        </g>
+                        <text id="classalyze" sketch:type="MSTextLayer" font-family="Montserrat" font-size="43.0109244" font-weight="bold" fill="#F6F7ED">
+                            <tspan x="52.5156615" y="42">classalyze</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

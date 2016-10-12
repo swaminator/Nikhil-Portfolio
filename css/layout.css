@@ -1,0 +1,149 @@
+body {
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif !important;
+}
+h1 {
+	font-family: 'Josefin Sans' !important;
+	margin: 0px !important;
+	text-align: center;;
+}
+#welcome {
+	background-color: #7F45FF;
+	height:  400px;
+}
+#welcome h1 {
+	padding-top: 125px;
+	padding-bottom: 20px;
+	color: #F6F7ED;
+	margin-top: 0px;
+	font-size: 60px
+}
+
+#welcome p {
+	color: white;
+	text-align: center;
+	padding-left: 50px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+#welcome .btn-default {
+	margin-left: 50px;
+	background-color: transparent; !important;
+	font-family: 'Josefin Sans';
+	font-size: 12px;
+	color: #45FFDD;
+	border-radius: 0px;
+	border-color: #45FFDD;
+}
+.btn-default:hover {
+	color: #7F45FF !important;
+	background-color: #45FFDD !important;
+	border-color: #7F45FF !important;
+}
+/**************CONTACT**********************/
+#contact {
+	display: none;
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#contact h4 {
+	color: #8B8A8A;
+}
+
+/***************I DO THINGS LIKE*********************/
+#section3 {
+	background-color: #F6F7ED;
+}
+
+#section3 h1 {
+	padding-top: 40px;
+	padding-bottom: 50px;
+	color: #8B8A8A;
+	font-size: 50px;
+}
+
+#section3 .row {
+	padding-bottom: 50px;
+}
+
+#section3 h4 {
+	color: #8B8A8A;
+	font-weight: 300;
+	/*font-size: 30px;*/
+}
+
+.boundaries {
+	display: none;
+}
+
+footer {
+	background-color: #45FFDD;
+	color: #F9F9F9;
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer p {
+	padding-top: 5px;
+	color: black;
+	font-weight: 700;
+}
+
+/******************************/
+
+#section2-1 {
+	background-color: #7F45FF;
+	color: #fff;
+	padding-bottom: 50px;
+}
+#section2-1 .heading {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.black-color {
+	font-weight: 700;
+	color: #FFEB00;
+}
+
+#section2-2 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #F6F7ED;
+}
+
+/******************************/
+
+.product-section1 {
+	background-color: #45FFDD;
+}
+.product-section1 a{
+		color: inherit;
+		line-height: 3em;
+	}
+	.product_section2 {
+		background-color: #FFEB00;
+	}
+
+	/*****************************/
+
+
+	.arch {
+		background-color: #F6F7ED;
+		font-family: 'Open Sans'
+	}
+		.arch-text {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.arch-text .quote {
+		text-align: center;
+		font-size: 20px;
+		font-weight: 400;
+	}
+		.arch-text .image {
+		text-align: center;
+	}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-544.000000, -393.000000)">
+            <g id="facebook" sketch:type="MSLayerGroup" transform="translate(544.000000, 393.000000)">
+                <path d="M0.056145172,14.7540984 C0.056145172,6.60563444 6.67132532,5.68434189e-14 14.8315645,5.68434189e-14 C22.9918036,5.68434189e-14 29.6069838,6.60563444 29.6069838,14.7540984 C29.6069838,22.9025623 22.9918036,29.5081967 14.8315645,29.5081967 C6.67132532,29.5081967 0.056145172,22.9025623 0.056145172,14.7540984 Z" id="Facebook" fill="#7F45FF" sketch:type="MSShapeGroup"></path>
+                <path d="M16.0670729,22.780167 L16.0670729,14.7531586 L18.2828783,14.7531586 L18.5765203,11.987007 L16.0670729,11.987007 L16.0708375,10.6025215 C16.0708375,9.88106657 16.1393853,9.49449453 17.175603,9.49449453 L18.5608343,9.49449453 L18.5608343,6.7280297 L16.3447152,6.7280297 C13.6827997,6.7280297 12.7458745,8.06991081 12.7458745,10.3265329 L12.7458745,11.9873203 L11.0866087,11.9873203 L11.0866087,14.7534718 L12.7458745,14.7534718 L12.7458745,22.780167 L16.0670729,22.780167 Z" id="Path" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M29.6069838,14.7540984 C29.6069838,22.9025623 22.9918036,29.5081967 14.8315645,29.5081967 C11.8051251,29.5081967 8.99120736,28.5995967 6.64851704,27.0407092 L23.5786277,2.86200543 C27.2345767,5.54786082 29.6069838,9.87432653 29.6069838,14.7540984 Z" id="reflec" fill-opacity="0.08" fill="#000000" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
