@@ -10,7 +10,7 @@ build:
     post_build:
       commands: []
   artifacts:
-    baseDirectory:
+    baseDirectory: /
     discardPaths: true
     files:
       - '**/*'
