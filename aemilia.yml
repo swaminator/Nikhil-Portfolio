@@ -1,0 +1,18 @@
+version: 0.1
+env:
+  variables: []
+build:
+  phases:
+    pre_build:
+      commands: []
+    build:
+      commands: []
+    post_build:
+      commands: []
+  artifacts:
+    baseDirectory: _site
+    discardPaths: true
+    files:
+      - '**/*'
+  cache:
+    paths: []
